@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="touch_fingerprint_sensor_hint">Berør fingeravtrykksensoren</string>
+    <string name="not_recognized_fingerprint_hint">Kan ikke gjenkjenne fingeravtrykket</string>
+</resources>
